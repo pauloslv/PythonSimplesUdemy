@@ -1,1 +1,1 @@
-Exercícios iniciais da aula de Pytho do curso Agentes de IA do zero ao avançado - Udemy
+Exercícios iniciais da aula de Python do curso Agentes de IA do zero ao avançado - Udemy
